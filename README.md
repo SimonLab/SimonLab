@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Simon, a full stack developer, currently working wiht Elixir Phoenix and LiveView!
 <!--
 **SimonLab/SimonLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
